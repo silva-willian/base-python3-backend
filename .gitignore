@@ -1,0 +1,15 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais Python
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+.cache/
